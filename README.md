@@ -27,6 +27,7 @@
     - [✔️ Marking Complete](#️-marking-complete)
     - [🗑️ Deleting a Task](#️-deleting-a-task)
   - [📸 Screenshots](#-screenshots)
+  - [](#)
   - [👤 Author](#-author)
   - [📄 License](#-license)
   - [🏷️ Tags](#️-tags)
@@ -142,13 +143,9 @@ Enter task number to delete: 1
 🗑️ Task 'Complete Python Internship' deleted!
 ```
 
----
-
 ## 📸 Screenshots
 
-> Run the script and interact with the menu in your terminal.
-
----
+## ![ TODO terminal UI](Screenshot.png)
 
 ## 👤 Author
 
